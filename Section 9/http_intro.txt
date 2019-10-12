@@ -1,0 +1,10 @@
+Introduction to HTTP Requests & more
+
+PHP is meant to be used for the web
+
+we use it with 
+Forms
+URL/Links
+Cookies
+Sessions // Sessions and Cookies work together.
+
