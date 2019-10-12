@@ -9,7 +9,7 @@
 
 <body>
 
-<?php        ?>
+<?php  echo "hello";      ?>
     
     
     <script type="javascript" src="javascript1.js" />
